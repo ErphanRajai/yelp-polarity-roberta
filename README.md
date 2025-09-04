@@ -34,13 +34,12 @@ The model classifies reviews as **Positive** ⭐ or **Negative** 👎 with **96%
 ---
 
 ## 🛠️ Installation
-
 Clone the repo and install dependencies:
 ```bash
 git clone https://github.com/itserphan/yelp-polarity-roberta.git
 cd yelp-polarity-roberta
 pip install -r requirements.txt
-
+```
 
 # Training
 ## Training from scratch with:
